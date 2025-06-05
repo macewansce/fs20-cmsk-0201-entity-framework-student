@@ -1,0 +1,4 @@
+/Users/levsen/Projects/cSharpLevel2/Review/obj/Debug/netcoreapp3.1/Review.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/Review/obj/Debug/netcoreapp3.1/Review.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Review/obj/Debug/netcoreapp3.1/Review.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/Review/obj/Debug/netcoreapp3.1/Review.csproj.CoreCompileInputs.cache
